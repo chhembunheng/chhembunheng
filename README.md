@@ -76,9 +76,23 @@
 ---
 
 ## 🎧 current mood
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r7p4d6kqnxv0l8f6r796b9tqbu&cover_image=true&theme=novatorem&bar_color=00c2ff&bar_color_cover=false" height="140" alt="spotify" />
-</p>
+
+<div align="center">
+
+💿 vibing while coding to &nbsp; <strong>lo-fi + alt pop + focus beats</strong>  
+<br>
+<br>
+
+<a href="https://open.spotify.com/user/31r7p4d6kqnxv0l8f6r796b9tqbu" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r7p4d6kqnxv0l8f6r796b9tqbu&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=00c2ff&bar_color_cover=false" width="480" alt="Spotify Now Playing" />
+</a>
+
+<br>
+<br>
+
+🩵 <sub>if music isn’t coding fuel, then what is?</sub>
+
+</div>
 
 
 ---
