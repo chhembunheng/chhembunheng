@@ -58,13 +58,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhembunheng&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
-<!-- optional streaks -->
-
-<p align="left">
-  <img height="160" src="https://streak-stats.demolab.com?user=chhembunheng&theme=tokyonight&hide_border=true" />
-</p>
-
-
 ---
 
 ## 🗺 road to next-level
