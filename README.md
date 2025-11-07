@@ -77,7 +77,10 @@
 
 ## 🎧 current mood
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r7p4d6kqnxv0l8f6r796b9tqbu&cover_image=true&theme=novatorem&bar_color=00c2ff&bar_color_cover=false" height="140" alt="spotify" />
+  <iframe style="border-radius:12px"
+          src="https://open.spotify.com/embed/artist/2AdzvYhoaq2bHCk0u9RfnD?utm_source=generator&theme=0" width="100%"
+          height="352" frameBorder="0" allowfullscreen=""
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </p>
 
 ---
