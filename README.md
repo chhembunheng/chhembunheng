@@ -2,59 +2,74 @@
 
 # Chhem Bunheng
 
-### Backend Developer | API Builder | Database Tuner
+### Backend Systems Developer
 
-I build reliable backend systems with Spring Boot, ASP.NET Core, Laravel, Docker, and SQL databases.
+I design APIs, data flows, and deployment-ready backend services that stay readable after the first version ships.
 
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://henggdeveloper.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhem-bunheng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhem-bunheng-25725b295/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhembunheng77@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/henggdev_04)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/definitelynot_heng)
 
 </div>
 
 ---
 
-## About
-
-Backend developer based in Phnom Penh, Cambodia, focused on building APIs, database-driven systems, and deployment-ready services.
-
-I like practical architecture, readable code, clear documentation, and systems that are easy to maintain after the exciting part is finished.
+<div align="center">
 
 ```txt
-Currently: open to backend roles and interesting project work
-Focus: microservices, REST APIs, database optimization, Docker deployments
-Operating system: Ubuntu
+SYSTEM PROFILE
+Location        Phnom Penh, Cambodia
+Role            Backend Developer
+Mode            Open to backend roles and project work
+Specialty       APIs, databases, services, containers
+Environment     Ubuntu, Docker, Git, SQL
+```
+
+</div>
+
+---
+
+## Backend Control Room
+
+<table>
+  <tr>
+    <td width="33%">
+      <strong>API Layer</strong><br>
+      REST endpoints, auth flows, validation, service boundaries, practical documentation.
+    </td>
+    <td width="33%">
+      <strong>Data Layer</strong><br>
+      PostgreSQL, MySQL, schema design, migrations, query tuning, data cleanup.
+    </td>
+    <td width="33%">
+      <strong>Runtime Layer</strong><br>
+      Docker, Docker Compose, Ubuntu Server, environment setup, deployable services.
+    </td>
+  </tr>
+</table>
+
+---
+
+## Service Map
+
+```mermaid
+flowchart LR
+    Client["Client App"] --> API["REST API"]
+    API --> Auth["Auth / Roles"]
+    API --> Logic["Business Logic"]
+    Logic --> DB[("PostgreSQL / MySQL")]
+    Logic --> Jobs["Background Work"]
+    API --> Docs["API Docs"]
+    Runtime["Docker + Ubuntu"] --> API
+    Runtime --> DB
 ```
 
 ---
 
-## Core Stack
-
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>Java, C#, PHP, JavaScript</td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks</strong></td>
-    <td>Spring Boot, ASP.NET Core, Laravel</td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>PostgreSQL, MySQL</td>
-  </tr>
-  <tr>
-    <td><strong>DevOps</strong></td>
-    <td>Docker, Docker Compose, Ubuntu Server, Git</td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>Navicat, Postman, GitHub, VS Code</td>
-  </tr>
-</table>
+## Stack Signals
 
 <div align="center">
 
@@ -71,39 +86,64 @@ Operating system: Ubuntu
 
 </div>
 
+<br>
+
+<table>
+  <tr>
+    <th>Use case</th>
+    <th>Preferred tools</th>
+  </tr>
+  <tr>
+    <td>Structured enterprise APIs</td>
+    <td>Java, Spring Boot, JPA</td>
+  </tr>
+  <tr>
+    <td>Fast backend services</td>
+    <td>C#, ASP.NET Core, EF Core</td>
+  </tr>
+  <tr>
+    <td>Rapid business systems</td>
+    <td>PHP, Laravel, Eloquent</td>
+  </tr>
+  <tr>
+    <td>Relational data work</td>
+    <td>PostgreSQL, MySQL, Navicat</td>
+  </tr>
+  <tr>
+    <td>Local and server runtime</td>
+    <td>Docker, Docker Compose, Ubuntu</td>
+  </tr>
+</table>
+
 ---
 
-## What I Build
+## How I Work
 
 ```yaml
-backend:
-  - REST APIs with clean structure and practical documentation
-  - authentication, authorization, and role-based access control
-  - service layers that keep business logic readable
-
-database:
-  - relational schema design
-  - query optimization
-  - migrations, seeders, and data cleanup workflows
-
-deployment:
-  - Dockerized services
-  - Docker Compose environments
-  - Ubuntu server setup and maintenance
+principles:
+  - simple structure before clever abstraction
+  - readable commits and clear naming
+  - database design before feature rush
+  - documentation where it saves future time
+  - deployable services, not only local demos
 ```
 
 ---
 
-## Working Style
+## Current Build Queue
 
-- I prefer clean code over clever code.
-- I document the parts future developers will actually need.
-- I think database design deserves attention early.
-- I like APIs that are boring in production, in the best possible way.
+```javascript
+const focus = {
+  backend: ["REST APIs", "microservices", "clean architecture"],
+  database: ["schema design", "query optimization", "data consistency"],
+  deployment: ["Docker Compose", "Ubuntu Server", "environment setup"],
+  learning: ["system design", "service boundaries", "production patterns"]
+};
+```
 
 ---
 
-## GitHub Snapshot
+## GitHub Telemetry
 
 <div align="center">
 
@@ -118,27 +158,12 @@ deployment:
 
 ---
 
-## Current Focus
-
-```javascript
-const bunheng = {
-  role: "Backend Developer",
-  location: "Phnom Penh, Cambodia",
-  mainStack: ["Spring Boot", "ASP.NET Core", "Laravel"],
-  databases: ["PostgreSQL", "MySQL"],
-  learning: ["microservices patterns", "system design", "clean architecture"],
-  openTo: ["backend roles", "API projects", "microservices work"]
-};
-```
-
----
-
 <div align="center">
 
-### Let's Build Something Useful
+### Available for backend work
+
+APIs, database-backed systems, Dockerized services, and backend project collaboration.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chhembunheng&style=for-the-badge&color=0A66C2)
-
-Open to backend roles, freelance projects, and technical conversations.
 
 </div>
