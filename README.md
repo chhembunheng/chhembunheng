@@ -1,177 +1,192 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:1F6FEB,100:00C2A8&text=CHHEM%20BUNHENG&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&fontSize=46&desc=Backend%20Developer%20%7C%20API%20Builder%20%7C%20Database%20Tuner&descAlign=50&descAlignY=58&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,35:0F766E,70:2563EB,100:020617&text=BUNHENG.EXE&fontSize=62&fontColor=F8FAFC&fontAlign=50&fontAlignY=42&desc=Backend%20Infrastructure%20%7C%20APIs%20%7C%20Databases%20%7C%20Deployment&descSize=18&descAlign=50&descAlignY=61&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=I+build+backend+systems+that+survive+real+users.;Spring+Boot+%2B+ASP.NET+Core+%2B+Laravel;PostgreSQL+%2B+MySQL+%2B+Docker+%2B+Ubuntu;Clean+APIs.+Readable+code.+Deployable+services.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2300&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+systems+engineered+for+clarity+and+scale.;Spring+Boot+%E2%80%A2+ASP.NET+Core+%E2%80%A2+Laravel;PostgreSQL+%E2%80%A2+MySQL+%E2%80%A2+Docker+%E2%80%A2+Ubuntu;Build+clean.+Ship+stable.+Keep+it+maintainable.)](https://git.io/typing-svg)
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://henggdeveloper.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhem-bunheng-25725b295/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhembunheng77@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/definitelynot_heng)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-020617?style=for-the-badge&logo=google-chrome&logoColor=38BDF8)](https://henggdeveloper.me)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/chhem-bunheng-25725b295/)
+[![Email](https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:chhembunheng77@gmail.com)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-020617?style=for-the-badge&logo=telegram&logoColor=38BDF8)](https://t.me/definitelynot_heng)
 
 </div>
 
 ---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1&pause=100000&color=94A3B8&center=true&vCenter=true&width=900&lines=Phnom+Penh%2C+Cambodia+%7C+Backend+Developer+%7C+Open+to+backend+roles+and+project+work" alt="profile line" />
+
+</div>
+
+## Command Profile
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <strong>API Systems</strong><br>
+      REST, auth, service layers
+    </td>
+    <td width="25%" align="center">
+      <strong>Data Engines</strong><br>
+      PostgreSQL, MySQL, queries
+    </td>
+    <td width="25%" align="center">
+      <strong>Runtime</strong><br>
+      Docker, Compose, Ubuntu
+    </td>
+    <td width="25%" align="center">
+      <strong>Delivery</strong><br>
+      clean code, docs, deploys
+    </td>
+  </tr>
+</table>
 
 ```txt
-┌──────────────────────────── BACKEND OPS CONSOLE ────────────────────────────┐
-│ name        Chhem Bunheng                                                   │
-│ location    Phnom Penh, Cambodia                                            │
-│ role        Backend Developer                                               │
-│ focus       APIs, databases, microservices, Dockerized deployments           │
-│ status      Open to backend roles, freelance work, and useful projects       │
-└─────────────────────────────────────────────────────────────────────────────┘
+PROFILE LOCKED
+Name       : Chhem Bunheng
+Base       : Phnom Penh, Cambodia
+Role       : Backend Developer
+Focus      : backend systems, microservices, relational data, deployment
+Status     : available for backend roles, freelance work, and serious projects
+Mindset    : practical architecture, readable code, production-ready services
 ```
 
-</div>
-
 ---
 
-## Mission Board
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Build</h3>
-      <p>REST APIs, business systems, service layers, auth flows, and backend features that are easy to maintain.</p>
-    </td>
-    <td width="50%">
-      <h3>Optimize</h3>
-      <p>Database schemas, SQL queries, migrations, seeders, and data cleanup workflows.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Ship</h3>
-      <p>Docker Compose setups, Ubuntu server environments, and deployment-ready backend services.</p>
-    </td>
-    <td width="50%">
-      <h3>Improve</h3>
-      <p>Code structure, documentation, debugging workflows, and production-readiness.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Tech Loadout
+## Arsenal
 
 <div align="center">
 
-![Java](https://skillicons.dev/icons?i=java)
-![Spring](https://skillicons.dev/icons?i=spring)
-![DotNet](https://skillicons.dev/icons?i=dotnet)
-![CS](https://skillicons.dev/icons?i=cs)
-![PHP](https://skillicons.dev/icons?i=php)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![Git](https://skillicons.dev/icons?i=git)
-![Postman](https://skillicons.dev/icons?i=postman)
+<img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,php,laravel,postgres,mysql,docker,ubuntu,git,postman&theme=dark" alt="Tech stack" />
 
 </div>
 
 <br>
 
-```yaml
-favorite_routes:
-  enterprise_api: Java + Spring Boot + JPA
-  fast_service: C# + ASP.NET Core + EF Core
-  business_system: PHP + Laravel + Eloquent
-  data_layer: PostgreSQL + MySQL
-  runtime: Docker + Docker Compose + Ubuntu
-```
-
----
-
-## Service Blueprint
-
-```mermaid
-flowchart LR
-    User["User / Client"] --> Gateway["API Gateway"]
-    Gateway --> Auth["Auth + Roles"]
-    Gateway --> Service["Backend Service"]
-    Service --> Rules["Business Rules"]
-    Rules --> DB[("PostgreSQL / MySQL")]
-    Service --> Queue["Jobs / Tasks"]
-    Service --> Docs["API Docs"]
-    Runtime["Docker + Ubuntu"] --> Gateway
-    Runtime --> Service
-    Runtime --> DB
-```
-
----
-
-## Current Quest Log
-
 <table>
   <tr>
-    <th>Track</th>
-    <th>Now exploring</th>
+    <th align="left">Backend route</th>
+    <th align="left">Preferred stack</th>
+    <th align="left">Best for</th>
   </tr>
   <tr>
-    <td>Architecture</td>
-    <td>microservices patterns, service boundaries, clean architecture</td>
+    <td><strong>Enterprise API</strong></td>
+    <td>Java, Spring Boot, JPA</td>
+    <td>structured services, clear domain logic, stable APIs</td>
   </tr>
   <tr>
-    <td>Database</td>
-    <td>query optimization, relational modeling, safer migrations</td>
+    <td><strong>Fast service</strong></td>
+    <td>C#, ASP.NET Core, EF Core</td>
+    <td>performance-focused backend features and internal tools</td>
   </tr>
   <tr>
-    <td>Deployment</td>
-    <td>Dockerized services, Ubuntu server workflows, environment setup</td>
+    <td><strong>Business platform</strong></td>
+    <td>PHP, Laravel, Eloquent</td>
+    <td>rapid systems, dashboards, admin workflows, CRUD-heavy apps</td>
   </tr>
   <tr>
-    <td>Craft</td>
-    <td>clear naming, readable commits, practical documentation</td>
+    <td><strong>Data core</strong></td>
+    <td>PostgreSQL, MySQL</td>
+    <td>schema design, migrations, query tuning, data cleanup</td>
+  </tr>
+  <tr>
+    <td><strong>Deployment lane</strong></td>
+    <td>Docker, Docker Compose, Ubuntu</td>
+    <td>repeatable environments and server-ready services</td>
   </tr>
 </table>
 
 ---
 
-## GitHub Radar
+## Infrastructure Blueprint
+
+```mermaid
+flowchart TB
+    Client["Client / Frontend"] --> Edge["API Entry"]
+    Edge --> Guard["Auth + Permissions"]
+    Guard --> Core["Service Core"]
+    Core --> Domain["Business Rules"]
+    Domain --> Store[("Relational Database")]
+    Core --> Jobs["Background Jobs"]
+    Core --> Docs["API Documentation"]
+    Ops["Docker + Ubuntu Runtime"] --> Edge
+    Ops --> Core
+    Ops --> Store
+```
+
+---
+
+## Operating Principles
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Readable beats clever</strong><br>
+      Code should explain the system before comments have to.
+    </td>
+    <td width="50%">
+      <strong>Data design comes early</strong><br>
+      Good schema decisions save expensive rewrites later.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Documentation should pay rent</strong><br>
+      I document flows, decisions, and API behavior that future work depends on.
+    </td>
+    <td width="50%">
+      <strong>Deployability matters</strong><br>
+      A backend is not finished until it can run cleanly outside the local machine.
+    </td>
+  </tr>
+</table>
+
+---
+
+## Signal Dashboard
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chhembunheng&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=chhembunheng&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=chhembunheng&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00C2A8" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chhembunheng&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00C2A8&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chhembunheng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=14B8A6" alt="GitHub stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=chhembunheng&theme=tokyonight&hide_border=true&background=020617&ring=14B8A6&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhembunheng&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="170" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhembunheng&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" alt="Top languages" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chhembunheng&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=00C2A8&point=FFFFFF" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chhembunheng&theme=tokyo-night&hide_border=true&bg_color=020617&color=CBD5E1&line=14B8A6&point=38BDF8" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
-## Console Output
+## Runtime Config
 
 ```javascript
 const bunheng = {
   role: "Backend Developer",
-  base: "Phnom Penh, Cambodia",
-  builds: ["REST APIs", "database-backed systems", "Dockerized services"],
-  stack: ["Spring Boot", "ASP.NET Core", "Laravel", "PostgreSQL", "MySQL"],
-  values: ["clean code", "clear docs", "stable deploys", "maintainable systems"],
-  contact: {
-    portfolio: "henggdeveloper.me",
-    linkedin: "chhem-bunheng-25725b295",
-    telegram: "definitelynot_heng"
-  }
+  location: "Phnom Penh, Cambodia",
+  builds: [
+    "REST APIs",
+    "database-backed systems",
+    "microservices",
+    "Dockerized deployments"
+  ],
+  stack: {
+    backend: ["Spring Boot", "ASP.NET Core", "Laravel"],
+    database: ["PostgreSQL", "MySQL"],
+    runtime: ["Docker", "Docker Compose", "Ubuntu"]
+  },
+  availableFor: ["backend roles", "API projects", "freelance backend work"]
 };
 ```
 
@@ -179,14 +194,10 @@ const bunheng = {
 
 <div align="center">
 
-### Ready to build something useful
+### Build the backend. Tune the data. Ship the system.
 
-Backend roles, API projects, microservices work, database systems, and Docker deployments.
+![Profile Views](https://komarev.com/ghpvc/?username=chhembunheng&style=for-the-badge&color=0F766E)
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=chhembunheng&style=for-the-badge&color=0A66C2)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00C2A8,50:1F6FEB,100:0D1117)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:020617,50:2563EB,100:0F766E)
 
 </div>
