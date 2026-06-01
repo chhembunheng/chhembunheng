@@ -1,10 +1,8 @@
 <div align="center">
 
-# Chhem Bunheng
+![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:1F6FEB,100:00C2A8&text=CHHEM%20BUNHENG&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&fontSize=46&desc=Backend%20Developer%20%7C%20API%20Builder%20%7C%20Database%20Tuner&descAlign=50&descAlignY=58&animation=fadeIn)
 
-### Backend Systems Developer
-
-I design APIs, data flows, and deployment-ready backend services that stay readable after the first version ships.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=I+build+backend+systems+that+survive+real+users.;Spring+Boot+%2B+ASP.NET+Core+%2B+Laravel;PostgreSQL+%2B+MySQL+%2B+Docker+%2B+Ubuntu;Clean+APIs.+Readable+code.+Deployable+services.)](https://git.io/typing-svg)
 
 <br>
 
@@ -20,150 +18,175 @@ I design APIs, data flows, and deployment-ready backend services that stay reada
 <div align="center">
 
 ```txt
-SYSTEM PROFILE
-Location        Phnom Penh, Cambodia
-Role            Backend Developer
-Mode            Open to backend roles and project work
-Specialty       APIs, databases, services, containers
-Environment     Ubuntu, Docker, Git, SQL
+┌──────────────────────────── BACKEND OPS CONSOLE ────────────────────────────┐
+│ name        Chhem Bunheng                                                   │
+│ location    Phnom Penh, Cambodia                                            │
+│ role        Backend Developer                                               │
+│ focus       APIs, databases, microservices, Dockerized deployments           │
+│ status      Open to backend roles, freelance work, and useful projects       │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## Backend Control Room
+## Mission Board
 
 <table>
   <tr>
-    <td width="33%">
-      <strong>API Layer</strong><br>
-      REST endpoints, auth flows, validation, service boundaries, practical documentation.
+    <td width="50%">
+      <h3>Build</h3>
+      <p>REST APIs, business systems, service layers, auth flows, and backend features that are easy to maintain.</p>
     </td>
-    <td width="33%">
-      <strong>Data Layer</strong><br>
-      PostgreSQL, MySQL, schema design, migrations, query tuning, data cleanup.
+    <td width="50%">
+      <h3>Optimize</h3>
+      <p>Database schemas, SQL queries, migrations, seeders, and data cleanup workflows.</p>
     </td>
-    <td width="33%">
-      <strong>Runtime Layer</strong><br>
-      Docker, Docker Compose, Ubuntu Server, environment setup, deployable services.
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Ship</h3>
+      <p>Docker Compose setups, Ubuntu server environments, and deployment-ready backend services.</p>
+    </td>
+    <td width="50%">
+      <h3>Improve</h3>
+      <p>Code structure, documentation, debugging workflows, and production-readiness.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Service Map
-
-```mermaid
-flowchart LR
-    Client["Client App"] --> API["REST API"]
-    API --> Auth["Auth / Roles"]
-    API --> Logic["Business Logic"]
-    Logic --> DB[("PostgreSQL / MySQL")]
-    Logic --> Jobs["Background Work"]
-    API --> Docs["API Docs"]
-    Runtime["Docker + Ubuntu"] --> API
-    Runtime --> DB
-```
-
----
-
-## Stack Signals
+## Tech Loadout
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
+![DotNet](https://skillicons.dev/icons?i=dotnet)
+![CS](https://skillicons.dev/icons?i=cs)
+![PHP](https://skillicons.dev/icons?i=php)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![Git](https://skillicons.dev/icons?i=git)
+![Postman](https://skillicons.dev/icons?i=postman)
 
 </div>
 
 <br>
 
+```yaml
+favorite_routes:
+  enterprise_api: Java + Spring Boot + JPA
+  fast_service: C# + ASP.NET Core + EF Core
+  business_system: PHP + Laravel + Eloquent
+  data_layer: PostgreSQL + MySQL
+  runtime: Docker + Docker Compose + Ubuntu
+```
+
+---
+
+## Service Blueprint
+
+```mermaid
+flowchart LR
+    User["User / Client"] --> Gateway["API Gateway"]
+    Gateway --> Auth["Auth + Roles"]
+    Gateway --> Service["Backend Service"]
+    Service --> Rules["Business Rules"]
+    Rules --> DB[("PostgreSQL / MySQL")]
+    Service --> Queue["Jobs / Tasks"]
+    Service --> Docs["API Docs"]
+    Runtime["Docker + Ubuntu"] --> Gateway
+    Runtime --> Service
+    Runtime --> DB
+```
+
+---
+
+## Current Quest Log
+
 <table>
   <tr>
-    <th>Use case</th>
-    <th>Preferred tools</th>
+    <th>Track</th>
+    <th>Now exploring</th>
   </tr>
   <tr>
-    <td>Structured enterprise APIs</td>
-    <td>Java, Spring Boot, JPA</td>
+    <td>Architecture</td>
+    <td>microservices patterns, service boundaries, clean architecture</td>
   </tr>
   <tr>
-    <td>Fast backend services</td>
-    <td>C#, ASP.NET Core, EF Core</td>
+    <td>Database</td>
+    <td>query optimization, relational modeling, safer migrations</td>
   </tr>
   <tr>
-    <td>Rapid business systems</td>
-    <td>PHP, Laravel, Eloquent</td>
+    <td>Deployment</td>
+    <td>Dockerized services, Ubuntu server workflows, environment setup</td>
   </tr>
   <tr>
-    <td>Relational data work</td>
-    <td>PostgreSQL, MySQL, Navicat</td>
-  </tr>
-  <tr>
-    <td>Local and server runtime</td>
-    <td>Docker, Docker Compose, Ubuntu</td>
+    <td>Craft</td>
+    <td>clear naming, readable commits, practical documentation</td>
   </tr>
 </table>
 
 ---
 
-## How I Work
-
-```yaml
-principles:
-  - simple structure before clever abstraction
-  - readable commits and clear naming
-  - database design before feature rush
-  - documentation where it saves future time
-  - deployable services, not only local demos
-```
-
----
-
-## Current Build Queue
-
-```javascript
-const focus = {
-  backend: ["REST APIs", "microservices", "clean architecture"],
-  database: ["schema design", "query optimization", "data consistency"],
-  deployment: ["Docker Compose", "Ubuntu Server", "environment setup"],
-  learning: ["system design", "service boundaries", "production patterns"]
-};
-```
-
----
-
-## GitHub Telemetry
+## GitHub Radar
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chhembunheng&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chhembunheng&theme=github-dark-blue&hide_border=true&background=0D1117" height="165" alt="GitHub streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=chhembunheng&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub trophies" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhembunheng&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=chhembunheng&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00C2A8" height="165" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chhembunheng&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00C2A8&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="GitHub streak" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhembunheng&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="170" alt="Top languages" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chhembunheng&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=00C2A8&point=FFFFFF" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
+## Console Output
+
+```javascript
+const bunheng = {
+  role: "Backend Developer",
+  base: "Phnom Penh, Cambodia",
+  builds: ["REST APIs", "database-backed systems", "Dockerized services"],
+  stack: ["Spring Boot", "ASP.NET Core", "Laravel", "PostgreSQL", "MySQL"],
+  values: ["clean code", "clear docs", "stable deploys", "maintainable systems"],
+  contact: {
+    portfolio: "henggdeveloper.me",
+    linkedin: "chhem-bunheng-25725b295",
+    telegram: "definitelynot_heng"
+  }
+};
+```
+
+---
+
 <div align="center">
 
-### Available for backend work
+### Ready to build something useful
 
-APIs, database-backed systems, Dockerized services, and backend project collaboration.
+Backend roles, API projects, microservices work, database systems, and Docker deployments.
+
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chhembunheng&style=for-the-badge&color=0A66C2)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00C2A8,50:1F6FEB,100:0D1117)
 
 </div>
