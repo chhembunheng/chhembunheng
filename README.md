@@ -1,15 +1,15 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,35:0F766E,70:2563EB,100:020617&text=BUNHENG.EXE&fontSize=62&fontColor=F8FAFC&fontAlign=50&fontAlignY=42&desc=Backend%20Infrastructure%20%7C%20APIs%20%7C%20Databases%20%7C%20Deployment&descSize=18&descAlign=50&descAlignY=61&animation=fadeIn)
+![Liquid Glass Header](https://capsule-render.vercel.app/api?type=waving&height=290&color=0:E0F2FE,35:BAE6FD,70:DBEAFE,100:F8FAFC&text=Chhem%20Bunheng&fontSize=56&fontColor=0F172A&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20for%20APIs%2C%20Data%2C%20and%20Deployable%20Systems&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2300&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+systems+engineered+for+clarity+and+scale.;Spring+Boot+%E2%80%A2+ASP.NET+Core+%E2%80%A2+Laravel;PostgreSQL+%E2%80%A2+MySQL+%E2%80%A2+Docker+%E2%80%A2+Ubuntu;Build+clean.+Ship+stable.+Keep+it+maintainable.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=22&duration=2600&pause=900&color=0284C7&center=true&vCenter=true&width=880&lines=Clean+APIs.+Reliable+data.+Smooth+deployments.;Spring+Boot+%E2%80%A2+ASP.NET+Core+%E2%80%A2+Laravel;PostgreSQL+%E2%80%A2+MySQL+%E2%80%A2+Docker+%E2%80%A2+Ubuntu;Backend+systems+with+calm%2C+clear+structure.)](https://git.io/typing-svg)
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-020617?style=for-the-badge&logo=google-chrome&logoColor=38BDF8)](https://henggdeveloper.me)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/chhem-bunheng-25725b295/)
-[![Email](https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:chhembunheng77@gmail.com)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-020617?style=for-the-badge&logo=telegram&logoColor=38BDF8)](https://t.me/definitelynot_heng)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F8FAFC?style=for-the-badge&logo=google-chrome&logoColor=0284C7&labelColor=E0F2FE&color=F8FAFC)](https://henggdeveloper.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F8FAFC?style=for-the-badge&logo=linkedin&logoColor=0284C7&labelColor=E0F2FE&color=F8FAFC)](https://www.linkedin.com/in/chhem-bunheng-25725b295/)
+[![Email](https://img.shields.io/badge/Email-F8FAFC?style=for-the-badge&logo=gmail&logoColor=0284C7&labelColor=E0F2FE&color=F8FAFC)](mailto:chhembunheng77@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-F8FAFC?style=for-the-badge&logo=telegram&logoColor=0284C7&labelColor=E0F2FE&color=F8FAFC)](https://t.me/definitelynot_heng)
 
 </div>
 
@@ -17,50 +17,50 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1&pause=100000&color=94A3B8&center=true&vCenter=true&width=900&lines=Phnom+Penh%2C+Cambodia+%7C+Backend+Developer+%7C+Open+to+backend+roles+and+project+work" alt="profile line" />
+### Liquid Glass Backend Profile
+
+Backend developer from Phnom Penh, Cambodia, focused on building API systems, relational data layers, and Dockerized services with clean structure.
 
 </div>
-
-## Command Profile
 
 <table>
   <tr>
     <td width="25%" align="center">
-      <strong>API Systems</strong><br>
-      REST, auth, service layers
+      <strong>API Surface</strong><br>
+      REST, auth, validation
     </td>
     <td width="25%" align="center">
-      <strong>Data Engines</strong><br>
-      PostgreSQL, MySQL, queries
+      <strong>Data Core</strong><br>
+      PostgreSQL, MySQL
+    </td>
+    <td width="25%" align="center">
+      <strong>Service Logic</strong><br>
+      clean layers, clear flows
     </td>
     <td width="25%" align="center">
       <strong>Runtime</strong><br>
-      Docker, Compose, Ubuntu
-    </td>
-    <td width="25%" align="center">
-      <strong>Delivery</strong><br>
-      clean code, docs, deploys
+      Docker, Ubuntu
     </td>
   </tr>
 </table>
 
 ```txt
-PROFILE LOCKED
-Name       : Chhem Bunheng
-Base       : Phnom Penh, Cambodia
-Role       : Backend Developer
-Focus      : backend systems, microservices, relational data, deployment
-Status     : available for backend roles, freelance work, and serious projects
-Mindset    : practical architecture, readable code, production-ready services
+╭──────────────────────────── profile.glass ────────────────────────────╮
+│ name       Chhem Bunheng                                               │
+│ role       Backend Developer                                           │
+│ location   Phnom Penh, Cambodia                                        │
+│ focus      APIs, databases, microservices, deployment                  │
+│ status     Open to backend roles and project work                      │
+╰────────────────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## Arsenal
+## Glass Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,php,laravel,postgres,mysql,docker,ubuntu,git,postman&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,php,laravel,postgres,mysql,docker,ubuntu,git,postman&theme=light" alt="Tech stack" />
 
 </div>
 
@@ -68,32 +68,32 @@ Mindset    : practical architecture, readable code, production-ready services
 
 <table>
   <tr>
-    <th align="left">Backend route</th>
-    <th align="left">Preferred stack</th>
-    <th align="left">Best for</th>
+    <th align="left">Layer</th>
+    <th align="left">Tools</th>
+    <th align="left">What I use it for</th>
   </tr>
   <tr>
-    <td><strong>Enterprise API</strong></td>
+    <td><strong>Enterprise APIs</strong></td>
     <td>Java, Spring Boot, JPA</td>
-    <td>structured services, clear domain logic, stable APIs</td>
+    <td>structured services, domain logic, stable REST endpoints</td>
   </tr>
   <tr>
-    <td><strong>Fast service</strong></td>
+    <td><strong>Fast Services</strong></td>
     <td>C#, ASP.NET Core, EF Core</td>
-    <td>performance-focused backend features and internal tools</td>
+    <td>clean backend features, internal tools, performance-focused APIs</td>
   </tr>
   <tr>
-    <td><strong>Business platform</strong></td>
+    <td><strong>Business Systems</strong></td>
     <td>PHP, Laravel, Eloquent</td>
-    <td>rapid systems, dashboards, admin workflows, CRUD-heavy apps</td>
+    <td>rapid platforms, admin workflows, database-backed apps</td>
   </tr>
   <tr>
-    <td><strong>Data core</strong></td>
+    <td><strong>Data Layer</strong></td>
     <td>PostgreSQL, MySQL</td>
-    <td>schema design, migrations, query tuning, data cleanup</td>
+    <td>schema design, migrations, query optimization, cleanup workflows</td>
   </tr>
   <tr>
-    <td><strong>Deployment lane</strong></td>
+    <td><strong>Deployment</strong></td>
     <td>Docker, Docker Compose, Ubuntu</td>
     <td>repeatable environments and server-ready services</td>
   </tr>
@@ -101,91 +101,84 @@ Mindset    : practical architecture, readable code, production-ready services
 
 ---
 
-## Infrastructure Blueprint
+## System Flow
 
 ```mermaid
-flowchart TB
-    Client["Client / Frontend"] --> Edge["API Entry"]
-    Edge --> Guard["Auth + Permissions"]
-    Guard --> Core["Service Core"]
-    Core --> Domain["Business Rules"]
-    Domain --> Store[("Relational Database")]
-    Core --> Jobs["Background Jobs"]
-    Core --> Docs["API Documentation"]
-    Ops["Docker + Ubuntu Runtime"] --> Edge
-    Ops --> Core
-    Ops --> Store
+flowchart LR
+    Client["Client"] --> API["Glass API Layer"]
+    API --> Auth["Auth + Roles"]
+    API --> Service["Service Logic"]
+    Service --> Data[("PostgreSQL / MySQL")]
+    Service --> Jobs["Background Work"]
+    Service --> Docs["API Docs"]
+    Runtime["Docker + Ubuntu"] --> API
+    Runtime --> Data
 ```
 
 ---
 
-## Operating Principles
+## Design Principles
 
 <table>
   <tr>
     <td width="50%">
-      <strong>Readable beats clever</strong><br>
-      Code should explain the system before comments have to.
+      <strong>Clarity first</strong><br>
+      Backend code should be easy to scan, debug, and extend.
     </td>
     <td width="50%">
-      <strong>Data design comes early</strong><br>
-      Good schema decisions save expensive rewrites later.
+      <strong>Stable data shape</strong><br>
+      Good schema choices make the rest of the system calmer.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <strong>Documentation should pay rent</strong><br>
-      I document flows, decisions, and API behavior that future work depends on.
+      <strong>Simple service boundaries</strong><br>
+      Each layer should have a clear job and a clean handoff.
     </td>
     <td width="50%">
-      <strong>Deployability matters</strong><br>
-      A backend is not finished until it can run cleanly outside the local machine.
+      <strong>Deployable by design</strong><br>
+      A service should run cleanly beyond the local machine.
     </td>
   </tr>
 </table>
 
 ---
 
-## Signal Dashboard
+## Soft Metrics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chhembunheng&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=chhembunheng&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chhembunheng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=14B8A6" alt="GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=chhembunheng&theme=tokyonight&hide_border=true&background=020617&ring=14B8A6&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chhembunheng&show_icons=true&theme=transparent&hide_border=true&title_color=0284C7&text_color=334155&icon_color=0EA5E9" alt="GitHub stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=chhembunheng&theme=transparent&hide_border=true&ring=0EA5E9&fire=0284C7&currStreakLabel=0284C7&sideLabels=334155&currStreakNum=0F172A&sideNums=0F172A" alt="GitHub streak" />
 
 <br><br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhembunheng&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhembunheng&layout=compact&theme=transparent&hide_border=true&title_color=0284C7&text_color=334155" alt="Top languages" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chhembunheng&theme=tokyo-night&hide_border=true&bg_color=020617&color=CBD5E1&line=14B8A6&point=38BDF8" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chhembunheng&theme=github-compact&hide_border=true&bg_color=FFFFFF00&color=334155&line=0EA5E9&point=0284C7" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
-## Runtime Config
+## Runtime Object
 
 ```javascript
 const bunheng = {
   role: "Backend Developer",
   location: "Phnom Penh, Cambodia",
-  builds: [
-    "REST APIs",
-    "database-backed systems",
-    "microservices",
-    "Dockerized deployments"
-  ],
   stack: {
     backend: ["Spring Boot", "ASP.NET Core", "Laravel"],
     database: ["PostgreSQL", "MySQL"],
     runtime: ["Docker", "Docker Compose", "Ubuntu"]
   },
+  builds: ["REST APIs", "database systems", "microservices", "deployable services"],
   availableFor: ["backend roles", "API projects", "freelance backend work"]
 };
 ```
@@ -194,10 +187,10 @@ const bunheng = {
 
 <div align="center">
 
-### Build the backend. Tune the data. Ship the system.
+### Clean backend systems, polished from data to deployment.
 
-![Profile Views](https://komarev.com/ghpvc/?username=chhembunheng&style=for-the-badge&color=0F766E)
+![Profile Views](https://komarev.com/ghpvc/?username=chhembunheng&style=for-the-badge&color=0EA5E9)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:020617,50:2563EB,100:0F766E)
+![Liquid Glass Footer](https://capsule-render.vercel.app/api?type=waving&height=145&section=footer&color=0:F8FAFC,35:DBEAFE,70:BAE6FD,100:E0F2FE)
 
 </div>
